@@ -18,7 +18,7 @@ let dataBaru = {
     name: "Andria Bakti Mahendra",
     email: "andr.bkti@gmail.com",
     hobby: [
-        "Nonton Anime",
+        "Menonton Anime",
         "Membaca"
     ]
 }
