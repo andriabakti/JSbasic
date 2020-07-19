@@ -1,15 +1,15 @@
-const mtk = null
+const mtk = 45
 const bahasaIndonesia = 86
 const bahasaInggris = 94
 const ipa = 77
 
 let jumlah = mtk + bahasaIndonesia + bahasaInggris + ipa
-if(mtk==null || bahasaIndonesia==null || bahasaInggris==null || ipa==null) {
+if(mtk == null || bahasaIndonesia == null || bahasaInggris == null || ipa == null) {
     console.log("Semua nilai harus diisi !")
+} else if (mtk != null && bahasaIndonesia != null && bahasaInggris != null && ipa != null) {
+    var rata = jumlah/4
+    console.log("Rata-rata = " + rata);
 }
-
-let rata = jumlah/4
-console.log("Rata-rata = " + rata);
 
 if(rata<=59) {
     console.log("Grade = E")
