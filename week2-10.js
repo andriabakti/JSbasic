@@ -1,5 +1,5 @@
-// Minggu 3
-// Soal 3
+// Minggu 2
+// Soal 10
 
 const divideAndSort = (int) => {
     let convert = int.toString().split("")
