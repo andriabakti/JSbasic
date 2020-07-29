@@ -1,5 +1,5 @@
 // Minggu 3
-// Soal 1
+// Soal 8
 
 const palindrom = (word) => {
     let letter = word.toLowerCase();
