@@ -1,5 +1,5 @@
-// Minggu 3
-// Soal 2
+// Minggu 2
+// Soal 9
 
 // Tanpa Built-In Function
 const reverseWords = (sentence) => {
