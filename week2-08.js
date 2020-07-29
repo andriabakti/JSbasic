@@ -1,4 +1,4 @@
-// Minggu 3
+// Minggu 2
 // Soal 8
 
 const palindrom = (word) => {
